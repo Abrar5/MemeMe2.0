@@ -1,2 +1,4 @@
 # MemeMe2.0
 An IOS app that enables a user to take a picture, and add text at the top and bottom to form a meme, and share that meme on Facebook and Twitter and also by SMS or email. Also, sent memes will appear in a tab view with two tabs: a table view and a collection view.
+
+ <img src="image/1.png" width=200 length= 200>
